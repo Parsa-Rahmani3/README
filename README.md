@@ -1,1 +1,1 @@
-
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="320" align="right">
